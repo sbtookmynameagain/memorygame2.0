@@ -41,7 +41,7 @@ body{
     position:absolute;
     border-radius: 5px;
     backface-visibility: hidden;
-    background-image:linear-gradient(to right bottom, #FBDB89, #F48982);
+    background-image:linear-gradient(to right bottom, #5d80f2, #ffc089);
 }
 
 .card-front{
